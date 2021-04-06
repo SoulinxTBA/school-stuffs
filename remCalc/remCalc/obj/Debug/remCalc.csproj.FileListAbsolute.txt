@@ -1,0 +1,8 @@
+C:\Users\Acer\Documents\SharpDevelop Projects\remCalc\remCalc\bin\Debug\remCalc.exe.config
+C:\Users\Acer\Documents\SharpDevelop Projects\remCalc\remCalc\bin\Debug\remCalc.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\remCalc\remCalc\bin\Debug\remCalc.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\remCalc\remCalc\obj\Debug\remCalc.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\SharpDevelop Projects\remCalc\remCalc\obj\Debug\remCalc.MainForm.resources
+C:\Users\Acer\Documents\SharpDevelop Projects\remCalc\remCalc\obj\Debug\remCalc.csproj.GenerateResource.Cache
+C:\Users\Acer\Documents\SharpDevelop Projects\remCalc\remCalc\obj\Debug\remCalc.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\remCalc\remCalc\obj\Debug\remCalc.pdb
