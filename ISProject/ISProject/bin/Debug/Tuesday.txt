@@ -1,0 +1,8 @@
+			("Tuesday")
+                        (" Time               º   º  Subject  º   º   Location     º")
+                        ("7:00 AM  - 9:00 AM  º   º   MAPEH   º   º  COVERED COURT º")
+                        ("9:00 AM  - 9:30 PM  º   º BreakTime º   º     N/A        º")
+                        ("9:30 AM  - 12:00 PM º   º  FILIPINO º   º   ROOM207      º")
+                        ("12:00 PM - 1:00 PM  º   º   LUNCH   º   º                º")
+                        ("1:00 PM  - 3:00  PM º   º    ICT    º   º  LABORATORY2   º")
+                        ("3:00 PM  - 5:00  PM º   º  Vacant   º   º    FACULTY     º")

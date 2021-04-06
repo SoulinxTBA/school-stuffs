@@ -1,0 +1,23 @@
+Prof. Roma Flores
+Age: 22
+Sex: Female
+Address: Bay
+Major: English
+
+Prof. Arvin Miranda
+Age: 24
+Sex: Male
+Address: Los banos
+Major: Science
+
+Prof. Angela Cataquiz
+Age: 22
+Sex: Female
+Address: Sta.Cruz
+Major: Math
+
+Prof. Jennifer Tagotongan
+Age: 30
+Sex: Female
+Address: Los banos
+Major: Filipino

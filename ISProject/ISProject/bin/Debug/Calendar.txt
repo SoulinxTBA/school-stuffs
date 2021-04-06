@@ -1,0 +1,19 @@
+Jan 1   New Year's Day 
+Jan 25  Chinese Lunar New Year's Day 
+Apr 9   Maundy Thursday 
+Apr 10  Good Friday 
+Apr 11  Black Saturday 
+Apr 12  Easter Sunday 
+May 1   Labor Day 
+May 24  Eidul-Fitar 
+Jun 12  Independence Day
+Aug 12  Eidul Adha
+Aug 21  Ninoy Aquino Day
+Aug 26   ational Heroes' Day
+Nov 1   All Saints' Day 
+Nov 2   All Souls' Day 
+Nov 30  Bonifacio Day 
+Dec 24  Christmas Eve	 
+Dec 25  Christmas Day 
+Dec 30  Rizal Day 
+Dec 31  New Year's Eve	

@@ -1,0 +1,5 @@
+C:\Users\Acer\Documents\SharpDevelop Projects\ISProject\ISProject\obj\Debug\ISProject.csprojResolveAssemblyReference.cache
+C:\Users\Acer\Documents\SharpDevelop Projects\ISProject\ISProject\bin\Debug\ISProject.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\ISProject\ISProject\bin\Debug\ISProject.pdb
+C:\Users\Acer\Documents\SharpDevelop Projects\ISProject\ISProject\obj\Debug\ISProject.exe
+C:\Users\Acer\Documents\SharpDevelop Projects\ISProject\ISProject\obj\Debug\ISProject.pdb
